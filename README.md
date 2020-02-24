@@ -263,6 +263,7 @@
   - [vue-i18n ★5](https://github.com/jinzhe/vue-i18n): Internationalization plugin by @jinzhe<sup>1.x</sup>
   - [vue-locale ★9](https://github.com/sebastian-software/vue-locale): Advanced localization support for VueJS by @sebastiansoft
   - [vue-jade-editor ★0](https://github.com/zxdong262/vue-jade-editor): a online jade(pug) editor plugin by [@zxdong262](https://github.com/zxdong262)
+  - [Vue Bootstrap with Material Design - Powerful and free UI KIT ★730] (https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design): 400+ material UI elements, 600+ material icons, 74 CSS animations, SASS files, templates, tutorials and many more. Free for personal and commercial use.
 
 - #### Examples
 
